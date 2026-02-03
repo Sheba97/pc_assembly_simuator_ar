@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: a04f9eb5c15ee6a419bdb9160e73cbaa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - motherboard: {fileID: 919132149155446097, guid: 530c4cac6b28db445a0f7703baef96ad, type: 3}
+  - ramPreview: {fileID: 919132149155446097, guid: d3b9c1ee8be1c7349ab754345b9d3c04, type: 3}
+  - coolerPreview: {fileID: 919132149155446097, guid: a91969128ec666146afaa8ab79d590c5, type: 3}
+  - gpuPreview: {fileID: 919132149155446097, guid: 5dda4d6b225f82944bf007866de6f4f1, type: 3}
+  - openCasingPreview: {fileID: 919132149155446097, guid: 38421ba4e3de7784a9e75b0c11751f18, type: 3}
+  - motherboardRamCpu: {fileID: 919132149155446097, guid: c599c6f93df1e5e4bb3ef9ef850b7535, type: 3}
+  - motherboardRamCpuCooler: {fileID: 919132149155446097, guid: 13cbe5c0fc4e3c3489fd944651e5db9f, type: 3}
+  - systemWithoutGpu: {fileID: 919132149155446097, guid: 66e1300358151b344a21ec65b93c2f36, type: 3}
+  - systemWithGpu: {fileID: 919132149155446097, guid: a81a8824b4066c14883e85c269cc37d5, type: 3}
+  - closedCasing: {fileID: 919132149155446097, guid: 9bf861d1d4739b7489b41253308a746d, type: 3}
+  - btnInstallRam: {instanceID: 0}
+  - btnInstallCooler: {instanceID: 0}
+  - btnPutInCase: {instanceID: 0}
+  - btnInstallGpu: {instanceID: 0}
+  - btnCloseCase: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
